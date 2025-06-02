@@ -1,6 +1,6 @@
 # Yandex_Music_Data_Analysis
 
-Analysis Goals
+## Analysis Goals
 
 Determine which factors influence track popularity (important to business to understand how to better attract audience and promote it)
 
@@ -12,7 +12,7 @@ Analyze artist popularity and its effect on overall metrics ( important for plan
 
 Data visualization for decision-making (help clearly understand trends)
 
-Description of the dataset:
+## Description of the dataset:
 
 name: Track title.
 
